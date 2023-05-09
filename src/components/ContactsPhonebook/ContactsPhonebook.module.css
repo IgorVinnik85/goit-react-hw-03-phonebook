@@ -1,0 +1,21 @@
+.list {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+}
+
+.item {
+    display: flex;
+    gap: 15px;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.btn {
+       display: block;
+    font-size: 12px;
+    width: 100px;
+    background-color: rgb(227, 227, 222);
+    border-radius: 5px;
+    border: none;
+}

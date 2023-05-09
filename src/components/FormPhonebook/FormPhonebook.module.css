@@ -1,0 +1,15 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.btn {
+    display: block;
+    font-size: 15px;
+    width: 100px;
+    background-color: rgb(227, 227, 222);
+    border-radius: 5px;
+    border: none;
+   
+}
